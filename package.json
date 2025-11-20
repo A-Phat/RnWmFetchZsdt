@@ -10,9 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@mongodb-js/zstd": "^7.0.0",
     "@nozbe/watermelondb": "^0.28.0",
     "@react-native-community/netinfo": "^11.4.1",
     "@react-native/new-app-screen": "0.82.1",
+    "@types/crypto-js": "^4.2.2",
+    "crypto-js": "^4.2.0",
+    "minio": "^8.0.6",
     "pako": "^2.1.0",
     "react": "19.1.1",
     "react-native": "0.82.1",
